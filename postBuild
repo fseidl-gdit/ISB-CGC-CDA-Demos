@@ -1,0 +1,1 @@
+curl https://storage.googleapis.com/demo-temp-files/key-file > ~/key-file
