@@ -1,1 +1,5 @@
+conda create -n cda python=3.7
+conda activate cda
+conda install jupyter
+pip install git+https://github.com/CancerDataAggregator/cda-python.git
 curl https://storage.googleapis.com/demo-temp-files/key-file > ~/key-file
